@@ -21,7 +21,9 @@ You all preform a pull request if you would have any problems, or if you want me
 
 
 ### 3. Viren's feature
-
+*created a feature*
+1. found a bug
+2. bug fixed
 
 ### 4. Bianca's feature
 
