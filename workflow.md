@@ -24,6 +24,11 @@ You all preform a pull request if you would have any problems, or if you want me
 *created a feature*
 1. found a bug
 2. bug fixed
+> added a little *widget*
+
+*this is the second feature*
+> added a little *widget*
+1. minor bug fixes
 
 ### 4. Bianca's feature
 
